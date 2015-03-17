@@ -13,5 +13,5 @@ From the data set all_data, creates the averages_data: independent tidy data set
 `features` - data from the file features.txt.
 'mean_and_std_features' -  measurements on the mean and standard deviation for each measurement.
 `activities` - activities data set.
-all_data - contains `all_data` merges `x_data`, `y_data` and `subject_data'.
-averages_data - independent tidy data set with the average of each variable for each activity and each subject.
+'all_data' - contains `all_data` merges `x_data`, `y_data` and `subject_data'.
+'averages_data' - independent tidy data set with the average of each variable for each activity and each subject.
